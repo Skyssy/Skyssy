@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Skyssy</h1>
 <h3 align="center">Un développeur passionné, originaire de France</h3>
 
+![image](https://user-images.githubusercontent.com/86375530/157773829-b8398628-b33b-4f71-8fe7-9fabf263747d.png)
+
+
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Skyssy](https://github.com/Skyssy)
 
 - 📫 Comment me joindre **https://discord.gg/meqECne7Uu**
