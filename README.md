@@ -6,7 +6,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/Skyssy](https://github.com/Skyssy)
 
-- 📫 Comment me joindre **https://discord.gg/meqECne7Uu**
+- 📫 Comment me joindre **https://t.me/SkyssyProof**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
