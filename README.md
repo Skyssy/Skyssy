@@ -40,15 +40,6 @@ Pour toute question ou demande spéciale, utilisez notre formulaire de contact :
 
 ---
 
-## 🌍 Suivez nos aventures
-
-Retrouvez-nous sur nos réseaux pour des offres exclusives et des mises à jour !
-
-- [Twitter](https://twitter.com/yourtwitter)
-- [Instagram](https://instagram.com/yourinstagram)
-
----
-
 ## 🎉 Merci de visiter notre boutique !
 
 Nous apprécions votre soutien et votre intérêt. N'hésitez pas à explorer nos produits et à passer commande !
