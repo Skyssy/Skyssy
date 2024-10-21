@@ -8,13 +8,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyssy&theme=dark" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skyssy&show_icons=true&theme=dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Skyssy&theme=github" alt="GitHub Activity Graph" />
+  <strong>Check out my contributions below to see my activity 👇</strong>
 </p>
