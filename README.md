@@ -26,9 +26,3 @@
 Pour toute question ou demande spéciale, utilisez notre formulaire de contact :
 
 - **Discord :** [votre.email@example.com](mailto:votre.email@example.com)
-
----
-
-## 🙏 Merci de visiter notre boutique !
-
-Nous apprécions votre soutien et votre intérêt. N'hésitez pas à explorer nos produits et à passer commande !
