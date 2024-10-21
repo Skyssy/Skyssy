@@ -8,5 +8,5 @@
 ---
 
 <p align="center">
-  <strong>Check out my contributions below to see my activity 👇</strong>
+  <img src="https://github.com/Skyssy/<nom-du-dépôt>/blob/main/github-contribution-grid-snake-dark.svg" alt="Contribution Graph Snake" />
 </p>
