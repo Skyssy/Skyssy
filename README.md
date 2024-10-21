@@ -1,4 +1,4 @@
-# 🌟 Boutique Innovante
+# 🌟 **KASA**
 
 ## 🎨 Nos Offres
 
