@@ -1,9 +1,5 @@
 # 🌟 Boutique Innovante
 
-Bienvenue dans un espace unique où la technologie rencontre la créativité ! Découvrez nos produits et services soigneusement sélectionnés.
-
----
-
 ## 🎨 Nos Offres
 
 | Produit / Service        | Description                                         | Prix      | Lien d'achat         |
@@ -11,6 +7,12 @@ Bienvenue dans un espace unique où la technologie rencontre la créativité ! D
 | ![Produit 1](https://via.placeholder.com/100) | Un produit qui révolutionne votre expérience. | **$XX.XX** | [Acheter maintenant](lien_vers_le_produit_1) |
 | ![Produit 2](https://via.placeholder.com/100) | Un service qui vous simplifie la vie.         | **$XX.XX** | [Acheter maintenant](lien_vers_le_produit_2) |
 | ![Produit 3](https://via.placeholder.com/100) | Une solution parfaite pour vos besoins.        | **$XX.XX** | [Acheter maintenant](lien_vers_le_produit_3) |
+
+---
+
+## 📊 Statistiques GitHub
+
+![Statistiques](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
 ---
 
@@ -35,12 +37,6 @@ Bienvenue dans un espace unique où la technologie rencontre la créativité ! D
 Pour toute question ou demande spéciale, utilisez notre formulaire de contact :
 
 - **Email :** [votre.email@example.com](mailto:votre.email@example.com) (optionnel)
-
----
-
-## 📊 Statistiques GitHub
-
-![Statistiques](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
 
 ---
 
