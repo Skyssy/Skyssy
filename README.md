@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Skyssy</h1>
+<h1 align="center">skyssy</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 <p align="center">
@@ -7,9 +7,14 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/SkyssyProof" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyssy&theme=dark" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skyssy&show_icons=true&theme=dark" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Skyssy&theme=github" alt="GitHub Activity Graph" />
 </p>
