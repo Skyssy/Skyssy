@@ -2,6 +2,7 @@
 
 ## 🎨 Nos Offres
 
+| Produit / Service        | Description                                         | Prix      | Lien d'achat         |
 |-------------------------|-----------------------------------------------------|-----------|-----------------------|
 | ![Produit 1](https://via.placeholder.com/100) | Un produit qui révolutionne votre expérience. | **$XX.XX** | [Acheter maintenant](lien_vers_le_produit_1) |
 | ![Produit 2](https://via.placeholder.com/100) | Un service qui vous simplifie la vie.         | **$XX.XX** | [Acheter maintenant](lien_vers_le_produit_2) |
