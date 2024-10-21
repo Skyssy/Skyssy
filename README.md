@@ -1,10 +1,10 @@
-# 👋 Bonjour, je suis [Votre Nom]!
+# 👋 Bienvenue sur mon profil GitHub !
 
-Bienvenue sur mon profil GitHub ! Je suis passionné par la programmation et l'apprentissage continu. Voici un aperçu de mes projets et de mes compétences.
+Je suis passionné par le développement et l'apprentissage continu. Voici un aperçu de mes projets et compétences.
 
 ---
 
-## 🔧 Compétences
+## 🌟 Compétences
 
 - **Langages de programmation :**
   - Python
@@ -19,24 +19,24 @@ Bienvenue sur mon profil GitHub ! Je suis passionné par la programmation et l'a
 
 ---
 
-## 📂 Projets récents
+## 📁 Projets récents
 
 ### [Nom du projet 1](lien_du_projet_1)
-Une brève description de votre projet. Ce qu'il fait et pourquoi c'est intéressant !
+Une brève description de ce projet et son utilité.
 
 ### [Nom du projet 2](lien_du_projet_2)
-Une brève description de votre projet. Ce qu'il fait et pourquoi c'est intéressant !
+Une brève description de ce projet et son utilité.
 
 ### [Nom du projet 3](lien_du_projet_3)
-Une brève description de votre projet. Ce qu'il fait et pourquoi c'est intéressant !
+Une brève description de ce projet et son utilité.
 
 ---
 
-## 📫 Me contacter
+## 📬 Me contacter
 
-- **Email :** [votre.email@example.com](mailto:votre.email@example.com)
-- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/votreprofil)
-- **Twitter :** [@VotreTwitter](https://twitter.com/votreprofil)
+- **Email :** [votre.email@example.com](mailto:votre.email@example.com) (optionnel)
+- **LinkedIn :** [Profil LinkedIn](https://www.linkedin.com/in/votreprofil) (optionnel)
+- **Twitter :** [@VotreTwitter](https://twitter.com/votreprofil) (optionnel)
 
 ---
 
@@ -47,11 +47,11 @@ Une brève description de votre projet. Ce qu'il fait et pourquoi c'est intéres
 
 ---
 
-## 🐦 Suivez-moi sur Twitter
+## 🧩 Statistiques GitHub
 
-Restez à jour avec mes projets et découvertes !
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
 
 ---
 
-Merci de visiter mon profil ! N'hésitez pas à consulter mes projets et à me contacter pour toute question ou collaboration.
+Merci de visiter ce profil ! N'hésitez pas à consulter les projets et à poser des questions pour toute collaboration.
 
