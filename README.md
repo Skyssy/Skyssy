@@ -25,4 +25,4 @@
 
 For any questions or special requests, please use our contact form:
 
-- **Discord:** [your.email@example.com](coming soon)
+- **Discord:** [coming soon]
