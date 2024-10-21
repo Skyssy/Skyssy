@@ -4,7 +4,7 @@
 
 | Product / Service        | Description                                         | Price      | Purchase Link         |
 |-------------------------|-----------------------------------------------------|-----------|-----------------------|
-| ![Product 1](https://via.placeholder.com/100) | A product that revolutionizes your experience. | **$19.99** | ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  [‎Buy](lien_vers_le_produit_1) |
+| ![Product 1](https://via.placeholder.com/100) | Coming soon. | **$19.99** | ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  [‎Buy](lien_vers_le_produit_1) |
 
 ---
 
@@ -25,4 +25,4 @@
 
 For any questions or special requests, please use our contact form:
 
-- **Discord:** [your.email@example.com](mailto:votre.email@example.com)
+- **Discord:** [your.email@example.com](coming soon)
