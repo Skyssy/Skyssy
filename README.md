@@ -12,7 +12,7 @@
 
 ## 📊 Statistiques GitHub
 
-![Statistiques](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Statistiques](https://github-readme-stats.vercel.app/api?username=skyssy&show_icons=true&theme=radical)
 
 ---
 
