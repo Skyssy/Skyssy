@@ -1,28 +1,32 @@
 # 🥷 **KASA**
 
-## 🛍️ Nos Offres
+## 🛍️ Our Offers
 
-| Produit / Service        | Description                                         | Prix      | Lien d'achat         |
+| Product / Service        | Description                                         | Price      | Purchase Link         |
 |-------------------------|-----------------------------------------------------|-----------|-----------------------|
-| ![Produit 1](https://via.placeholder.com/100) | Un produit qui révolutionne votre expérience. | **$19.99** | ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  [‎Buy](lien_vers_le_produit_1) |
+| ![Product 1](https://via.placeholder.com/100) | A product that revolutionizes your experience. | **$19.99** | ‎ ‎‎ ‎ ‎  ‎‎‎ ‎  [‎Buy](lien_vers_le_produit_1) |
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Statistics
 
-![Statistiques](https://github-readme-stats.vercel.app/api?username=skyssy&show_icons=true&theme=radical)
-
----
-
-## 🔑 Fonctionnalités Clés
-
-- **Support 24/7** : Nous sommes là pour vous aider à tout moment.
-- **Mises à jour gratuites** : Profitez des mises à jour pour tous vos achats.
+![Statistics](https://github-readme-stats.vercel.app/api?username=skyssy&show_icons=true&theme=radical)
 
 ---
 
-## ✉️ Contactez-nous
+## 🔑 Key Features
 
-Pour toute question ou demande spéciale, utilisez notre formulaire de contact :
+- **24/7 Support**: We are here to help you at any time.
+- **Free Updates**: Enjoy updates for all your purchases.
 
-- **Discord :** [votre.email@example.com](mailto:votre.email@example.com)
+---
+
+## ✉️ Contact Us
+
+For any questions or special requests, please use our contact form:
+
+- **Discord:** [your.email@example.com](mailto:votre.email@example.com)
+
+---
+
+Thank you for visiting our store! We appreciate your support and interest. Feel free to explore our products and place your orders!
