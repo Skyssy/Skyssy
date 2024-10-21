@@ -14,19 +14,10 @@
 
 ---
 
-## ⭐ Pourquoi choisir nos produits ?
-
-- **Qualité** : Nous nous engageons à offrir des produits de haute qualité.
-- **Satisfaction** : Notre priorité est votre satisfaction.
-- **Innovation** : Des solutions uniques qui se démarquent.
-
----
-
 ## 🔑 Fonctionnalités Clés
 
 - **Support 24/7** : Nous sommes là pour vous aider à tout moment.
 - **Mises à jour gratuites** : Profitez des mises à jour pour tous vos achats.
-- **Garantie de remboursement** : Si vous n'êtes pas satisfait, nous remboursons !
 
 ---
 
@@ -34,7 +25,7 @@
 
 Pour toute question ou demande spéciale, utilisez notre formulaire de contact :
 
-- **Email :** [votre.email@example.com](mailto:votre.email@example.com) (optionnel)
+- **Discord :** [votre.email@example.com](mailto:votre.email@example.com)
 
 ---
 
